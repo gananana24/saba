@@ -1,6 +1,7 @@
 [package]
 name = "saba"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 
 [dependencies]
+noli = { git = "https://github.com/hikalium/wasabi.git", rev = "abf27c6f587e777fce5c53234d45d997ed075996" }

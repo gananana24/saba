@@ -1,1 +1,8 @@
-/target
+# Rust build artifacts
+/target/
+
+# Wasabi is cloned here by run_on_wasabi.sh.
+/build/
+
+# macOS metadata
+.DS_Store
